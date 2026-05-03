@@ -1,4 +1,3 @@
-# Read-me
 # Hi, I'm Bhumika Singhal
 
 Aspiring Data Analyst | Python Enthusiast | Business Insights Explorer | Lifelong Learner
@@ -71,5 +70,3 @@ Visit my repositories to explore my work and project details.
 ## Fun Fact
 
 I believe every dataset has a story — the job is to uncover it.
-
----
